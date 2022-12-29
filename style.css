@@ -1,0 +1,16 @@
+body {
+    background-color: #FFE8D7; /* Inspired by Van Gogh's Starry Night */
+    color: #2A2A2A;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .header {
+    font-size: 30px;
+    color: #7C1E3F; /* Inspired by Van Gogh's Irises */
+  }
+  
+  #game-container {
+    margin: 20px;
+  }
+  

@@ -1,0 +1,12 @@
+Create 3 files for a static website. The files are index.html, style.css and script.js
+index.html will name the website as "Welcome to 2023" and will display a title as a header as "The day guessing game". 
+Index.html will link style.css and script.js
+Use a nice style of Van Gogh with colours such as those found in Van Gogh's paintings and use a Van Gogh style to impress. 
+Also centre words and make them clear and large. Use a style that will work on different devices such as PCs, tablets and phones. 
+Use the script.js file for any functionality needed that such generating random dates and anything else for the below game.
+The website will host a guessing game that will generate a random 2023 date. 
+It will display it in format dd-mmm-yyyy and ask users the following question 'Name the day of the week?' and request user input.
+It allow user to input an answer and then to press enter to answer.
+If the day of the week matches the date, then respond with 'Correct" and end the game. 
+If not then respond 'Incorrect', and generate another random date and ask the question again, wait for the response. 
+The game will continue until a correct answer is given.
